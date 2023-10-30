@@ -1,3 +1,6 @@
 [submodule "HNG-TASKS"]
 	path = HNG-TASKS
 	url = https://github.com/RayOmiyi/stage-1
+[submodule "HNG-TASKS2"]
+	path = HNG-TASKS2
+	url = https://github.com/RayOmiyi/hng-stage2-frontend
