@@ -28,10 +28,6 @@ Name: Image Gallery
 STACK: REACTJS, FIREBASE, CSS
 I developed a robust image gallery app with ReactJS, powered by Firebase for storage and authentication. Leveraging Firebase's storage capabilities, users can securely upload, store, and access their images. The authentication system ensures user data protection. This app not only enables efficient image management but also promotes user engagement. With streamlined access and security measures, it's a user-friendly platform for sharing and organizing images.
 
-HNG-TASK(4)
-Name: nothing built, just getting to know ourselves
-We did not build anything in stage4, instead we were told to network and mingle with the ourselves to learn, know and connect with eachother.
-
 HNG-TASK(5)
 Name: Portfolio-website
 I crafted my portfolio website using React, a powerful JavaScript library for building dynamic user interfaces. This modern, single-page application offers seamless navigation and a responsive design. Through React's component-based architecture, I organized and displayed my skills, projects, and experiences in an engaging and user-friendly manner. The website offers a smooth, interactive experience, making it easy for visitors to explore my work and get in touch. It's not just a showcase of my abilities; it's a testament to my expertise in React and a valuable hub for professional connections and career opportunities.
