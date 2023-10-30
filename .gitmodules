@@ -4,3 +4,6 @@
 [submodule "HNG-TASKS2"]
 	path = HNG-TASKS2
 	url = https://github.com/RayOmiyi/hng-stage2-frontend
+[submodule "IMAGE-GALLERY-TASK3"]
+	path = IMAGE-GALLERY-TASK3
+	url = https://github.com/RayOmiyi/Image-gallery
