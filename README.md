@@ -1,7 +1,7 @@
 # HNG-TASKS
 HNG-TASK(1) 
 STACK: HTML,CSS AND JAVSCRIPT
-Name: Biodata web
+Name: Biodata web 
 This project was a simple landing page showing the following
 a) our profile picture
 b) name
