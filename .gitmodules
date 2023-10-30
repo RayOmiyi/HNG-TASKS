@@ -13,3 +13,6 @@
 [submodule "HNG-TASK6"]
 	path = HNG-TASK6
 	url = https://github.com/RayOmiyi/help-me
+[submodule "HNG-TASK7"]
+	path = HNG-TASK7
+	url = https://github.com/RayOmiyi/stripe
