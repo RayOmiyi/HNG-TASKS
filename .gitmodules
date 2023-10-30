@@ -10,3 +10,6 @@
 [submodule "HNG-TASK5"]
 	path = HNG-TASK5
 	url = https://github.com/RayOmiyi/portfolio-web
+[submodule "HNG-TASK6"]
+	path = HNG-TASK6
+	url = https://github.com/RayOmiyi/help-me
