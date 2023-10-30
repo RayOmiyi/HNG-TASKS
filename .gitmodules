@@ -7,3 +7,6 @@
 [submodule "IMAGE-GALLERY-TASK3"]
 	path = IMAGE-GALLERY-TASK3
 	url = https://github.com/RayOmiyi/Image-gallery
+[submodule "HNG-TASK5"]
+	path = HNG-TASK5
+	url = https://github.com/RayOmiyi/portfolio-web
